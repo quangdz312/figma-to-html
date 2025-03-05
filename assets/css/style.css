@@ -579,7 +579,7 @@ footer {
   max-width: 267px;
   color: #bfbcb2;
   font-size: 1.4rem;
-  line-height: 1.86%; /* 185.714% */
+  line-height: 1.86; /* 185.714% */
 }
 .footer .socials {
   display: flex;
